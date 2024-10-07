@@ -1,6 +1,6 @@
 # GET
 Descargar archivos con C++ con wininet
-```
+```c++
 // AUTOR: BAA4TS
 // ARCHIVO: GET.cpp
 // LICENCIA: MIT
